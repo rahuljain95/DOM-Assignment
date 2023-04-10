@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#box {
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-weight: 700;
+    box-shadow: 0 0 10px black;
+    padding: 5px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
